@@ -47,3 +47,11 @@ footer {
     bottom: 0;
     width: 100%;
 }
+video {
+    width: 100%;
+    background-position: center;
+    height: auto;
+    object-fit: fill;
+    
+    
+  }
